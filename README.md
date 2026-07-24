@@ -1,5 +1,9 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&letterSpacing=2px&pause=1000&color=EB6F00&width=435&lines=Hi%2C+I'm+Alice+👋)](https://git.io/typing-svg)
 
+<h3>Technologies</h3>
+
+[![My Skills](https://skillicons.dev/icons?i=aws,cpp,docker,elasticsearch,fastapi,git,grafana,kubernetes,latex,py,pytorch,sklearn,tensorflow,terraform,&theme=dark&viewbox=auto)](https://skillicons.dev)
+
 <!--
 **a-alfonsi/a-alfonsi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
