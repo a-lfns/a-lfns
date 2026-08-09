@@ -1,5 +1,5 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&letterSpacing=2px&pause=1000&color=000000&width=435&lines=Hi%2C+I'm+Alice+👾)](https://git.io/typing-svg)</br>
-ML Engineer focused on reliable research-to-operations, scientific evaluation and observability.
+ML Engineer focused on reliable research-to-operations, scientific evaluation, explainability and observability.
 
 ---
 <p>
